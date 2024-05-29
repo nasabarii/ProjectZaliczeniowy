@@ -21,11 +21,15 @@ Aby uruchomić ten program potrzebne jest:
 
 Kroki do uruchomienia:
 
-1)Pobierz plik 'Labirynt.java' z repozytorium
-2)Otworzyć terminal na swoim komputerze.
-Jeśli używasz systemu Windows możesz otworzyć Wiersz Poleceń. W systemach macOS i Linux otwórz Terminal.
-3)Za pomocą polecenia cd przejdź do katalogu w którym znajduje się plik Labirynt.java. 
-4)Skompiluj program za pomocą polecenia: javac Labirynt.java
-5)Po skompilowaniu uruchom program za pomocą polecenia: java Labirynt
+#1)Pobierz plik 'Labirynt.java' z repozytorium
+
+#2)Otworzyć terminal na swoim komputerze.
+Jeśli używasz systemu Windows możesz otworzyć PowerShell lub Wiersz Poleceń. W systemach macOS i Linux otwórz Terminal.
+
+#3)Za pomocą polecenia cd przejdź do katalogu w którym znajduje się plik Labirynt.java. (lub kliknij prawym przyciskiem myszy na plik aby oworzyć terminał)
+
+#4)Skompiluj program za pomocą polecenia: javac Labirynt.java
+
+#5)Po skompilowaniu uruchom program za pomocą polecenia: java Labirynt
 
 Dziękuję! Autor Anastasiia Kurilina
